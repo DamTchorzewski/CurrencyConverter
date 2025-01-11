@@ -1,7 +1,3 @@
----
-layout: default
-title: Kalkulator Walut
----
 
 # Kalkulator Walut
 
