@@ -10,24 +10,32 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    # Checkout repo
+    # 1. Checkout repo
     - name: Checkout code
       uses: actions/checkout@v3
 
-    # Setup MSBuild
+    # 2. Setup MSBuild
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v1
 
-    # Build application
+    # 3. Setup NuGet
+    - name: Setup NuGet
+      uses: NuGet/setup-nuget@v1
+
+    # 4. Restore NuGet packages
+    - name: Restore NuGet packages
+      run: nuget restore CurrencyConverter.sln
+
+    # 5. Build application
     - name: Build project
       run: msbuild CurrencyConverter.sln /p:Configuration=Release
 
-    # Deploy (przyk³ad FTP)
+    # 6. Deploy (FTP example)
     - name: Deploy via FTP
       uses: SamKirkland/FTP-Deploy-Action@4.3.1
       with:
-        ftp-server: ftps://your-server.com
-        ftp-username: ${{ secrets.FTP_USERNAME }}
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        server: ftps://your-server.com
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./CurrencyConverter/bin/Release/
         remote-dir: /public_html/
