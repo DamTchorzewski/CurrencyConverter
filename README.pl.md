@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kalkulator Walut
+---
+
 # Kalkulator Walut
 
 **Kalkulator Walut** to aplikacja Windows Forms s³u¿¹ca jako kalkulator konwersji walut. Projekt zosta³ opracowany zgodnie z wymogami specyfikacji, oferuj¹c intuicyjny interfejs u¿ytkownika oraz funkcjonalnoœci takie jak dynamiczne etykiety walut, obs³uga niestandardowej waluty i przeliczanie wartoœci na podstawie predefiniowanych kursów wymiany.
