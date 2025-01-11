@@ -21,12 +21,13 @@ exclude:
   - .vscode
   - bin/
   - obj/
+  - README.pl.md
   - *.sln
   - *.csproj
   - *.user
   - *.pdb
   - *.dll
-
+  
 # W³asne zmienne
 author: Twoje Imiê
 email: twojemail@example.com
