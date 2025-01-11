@@ -1,0 +1,33 @@
+name: Deploy .NET Framework App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+
+    steps:
+    # Checkout repo
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Setup MSBuild
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1
+
+    # Build application
+    - name: Build project
+      run: msbuild CurrencyConverter.sln /p:Configuration=Release
+
+    # Deploy (przyk³ad FTP)
+    - name: Deploy via FTP
+      uses: SamKirkland/FTP-Deploy-Action@4.3.1
+      with:
+        ftp-server: ftps://your-server.com
+        ftp-username: ${{ secrets.FTP_USERNAME }}
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./CurrencyConverter/bin/Release/
+        remote-dir: /public_html/
