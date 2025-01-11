@@ -79,7 +79,7 @@
 
 Projekt w pełni realizuje założenia specyfikacji, a wszystkie wymagane funkcjonalności zostały zaimplementowane. Dodatkowo aplikacja zawiera obsługę błędów, integrację z paskiem przewijania oraz dynamicznie zmieniające się etykiety walut. Wprowadzenie waluty niestandardowej również zostało zrealizowane zgodnie z założeniami.
 
-### **Sugerowana ocena: 5/5**
+### **Sugerowana ocena: 4/5**
 
 Projekt spełnia wszystkie wymagania i działa zgodnie z oczekiwaniami, co uzasadnia najwyższą ocenę.
 

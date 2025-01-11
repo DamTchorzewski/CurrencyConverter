@@ -64,7 +64,7 @@
 
 The project fully meets the specification assumptions, and all required functionalities have been implemented. Additionally, the application includes error handling, integration with the scroll bar, and dynamically changing currency labels. The introduction of a non-standard currency has also been implemented according to the assumptions.
 
-### **Suggested rating: 5/5**
+### **Suggested rating: 4/5**
 The project meets all the requirements and works as expected, which justifies the highest rating.
 
 ---
