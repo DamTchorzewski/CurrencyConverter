@@ -1,8 +1,8 @@
 # Podstawowe ustawienia
 title: Currency Converter
 description: Prosta aplikacja do przeliczania walut
-baseurl: "" # Ustaw œcie¿kê, jeœli nie wdra¿asz w katalogu g³ównym (np. "/CurrencyConverter")
-url: "https://twojanazwa.github.io" # Zast¹p swoj¹ domen¹ lub URL GitHub Pages
+baseurl: "https://damtchorzewski.github.io/CurrencyConverter/" # Ustaw œcie¿kê, jeœli nie wdra¿asz w katalogu g³ównym (np. "/CurrencyConverter")
+url: "https://damtchorzewski.github.io/CurrencyConverter/" # Zast¹p swoj¹ domen¹ lub URL GitHub Pages
 
 # Wtyczki (plugins)
 plugins:
