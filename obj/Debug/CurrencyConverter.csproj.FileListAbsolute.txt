@@ -1,0 +1,10 @@
+C:\Users\karni\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\karni\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\karni\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\karni\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\karni\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\karni\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\karni\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\karni\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\karni\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\karni\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
