@@ -1,10 +1,10 @@
 C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
 C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\CurrencyConverter.Form1.resources
-C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\Kalkulator_Walut.Properties.Resources.resources
 C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
 C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
-C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\Kalkulator Walut.exe
-C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\Kalkulator Walut.pdb
-C:\Users\karni\source\repos\Kalkulator Walut\bin\Debug\Kalkulator Walut.exe.config
-C:\Users\karni\source\repos\Kalkulator Walut\bin\Debug\Kalkulator Walut.exe
-C:\Users\karni\source\repos\Kalkulator Walut\bin\Debug\Kalkulator Walut.pdb
+C:\Users\karni\source\repos\Kalkulator Walut\bin\Debug\CurrencyConverter.exe.config
+C:\Users\karni\source\repos\Kalkulator Walut\bin\Debug\CurrencyConverter.exe
+C:\Users\karni\source\repos\Kalkulator Walut\bin\Debug\CurrencyConverter.pdb
+C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\CurrencyConverter.exe
+C:\Users\karni\source\repos\Kalkulator Walut\obj\Debug\CurrencyConverter.pdb
