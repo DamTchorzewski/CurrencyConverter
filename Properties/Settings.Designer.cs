@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CurrencyConverter.Properties
+namespace Kalkulator_Walut.Properties
 {
 
 
