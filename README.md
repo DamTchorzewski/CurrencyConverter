@@ -1,6 +1,7 @@
-﻿- [Czytaj po Polsku](README.pl.md)
-
+﻿
 # Currency Calculator
+
+[Czytaj po Polsku](README.pl.md)
 
 **Currency Calculator** is a Windows Forms application developed in the Visual Studio .NET Framework environment. It is used for converting currency values based on predefined exchange rates, providing an intuitive user interface and additional functionalities that meet the project requirements.
 
